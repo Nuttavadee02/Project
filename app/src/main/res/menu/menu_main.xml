@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="project.fcp.MainActivity">
+    <item
+        android:id="@+id/manual"
+        android:orderInCategory="101"
+        android:icon="@drawable/manual"
+        android:title="คู่มือการใช้งาน"
+        app:showAsAction="ifRoom"
+         />
+
+</menu>
